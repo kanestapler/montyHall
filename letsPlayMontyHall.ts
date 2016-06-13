@@ -1,6 +1,6 @@
 declare var require: any
 var montyHall = require("./montyHall");
-const numberOfDoors: number = 10;
+const numberOfDoors: number = 3;
 const numberOfTimesToRun: number = 1000;
 var numberOfWins: number = 0;
 var winPercentage: number = 0;
